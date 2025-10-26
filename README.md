@@ -1,4 +1,4 @@
-# Hey, I'm Carl! 👋
+# Hey, I'm Carl! 👋 
 
 ### 🤖 About Me
 - 🖥️ A **2nd year IT student** learning about **programming**, especially in using **Python**.<br/>
