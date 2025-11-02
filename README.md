@@ -1,6 +1,9 @@
 # Hey, I'm Carl! ( ﾉ◠‿◠)ﾉ
 
 >### 🖱️ whoami
+
+![giphy](https://github.com/user-attachments/assets/b8385da8-75db-4f41-9c18-a81779083661)
+
 - A ```2nd year IT student``` learning about ```programming```, especially in using ```Python```.<br/>
 - Aside programming, I am also working on improving my ```typing speed``` and ```design skills```.<br/>
 - I make ```poster designs``` occasionally, which you can check out on my [Instagram](https://instagram.com/cwrl.alt.del).<br/>
