@@ -1,4 +1,4 @@
-# Hey, I'm Carl! ヾ(＠⌒ー⌒＠)ノ
+# Hey, I'm Carl! ( ﾉ◠‿◠)ﾉ
 
 >### 🖱️ whoami
 - A ```2nd year IT student``` learning about ```programming```, especially in using ```Python```.<br/>
