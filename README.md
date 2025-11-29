@@ -1,7 +1,7 @@
 # Hey, I'm Carl! ( ﾉ◠‿◠)ﾉ
 
 ### 🖱️ whoami
-- A ```2nd year IT student``` learning about ```programming```, especially in using ```Python```.<br/>
+- A ```2nd year IT student``` learning about ```programming```, especially using ```Python```.<br/>
 - Aside programming, I am also working on improving my ```typing speed``` and ```design skills```.<br/>
 - I make ```poster designs``` occasionally, which you can check out on my [Instagram](https://instagram.com/cwrl.alt.del).<br/>
 - Currently learning ```pygame``` to level up my ```Python skills```.<br/>
