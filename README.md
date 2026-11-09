@@ -13,5 +13,5 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,py,pygame,godot,sqlserver,git,github,figma,ps&titles=true&perline=5)
 
 ### ⚙️ stats
-![](https://streak-stats.demolab.com?user=cwrlcarl&theme=ayu-mirage&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cwrlcarl&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=cwrlcarl&theme=ayu-mirage&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=cwrlcarl&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
